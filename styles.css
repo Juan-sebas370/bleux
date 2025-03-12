@@ -603,7 +603,7 @@ body {
     }
 
     .hero-image {
-        padding: 20px;
+        padding: 0px;
         width: 100%;
         background-size: cover;
     }
